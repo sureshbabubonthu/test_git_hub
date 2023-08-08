@@ -1,3 +1,6 @@
 First line
 
 Second line
+
+Adding thirdline to check for merge conflict
+
